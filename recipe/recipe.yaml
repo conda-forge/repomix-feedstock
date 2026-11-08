@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "1.18.1"
+  version: "1.19.0"
 
 package:
   name: repomix
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/repomix/-/repomix-${{ version }}.tgz
-  sha256: d4d278310b33f245d4abbc7f757cc3815ff362f6d69225692f837c7dcee83c8f
+  sha256: e5504ac6a3e1729b27b78efa8e7f15c468bda64c5aad533566666e3d95ccc064
 
 build:
   number: 0
